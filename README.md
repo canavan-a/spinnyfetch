@@ -1,9 +1,5 @@
 # spinnyfetch
 
-A `fastfetch`/`neofetch`-style system-info tool for NixOS, written in Go. The
-Nix snowflake logo spins in place, rendered as a live terminal animation
-rather than a static sprite.
-
 ```
 nix run .#default -- --once
 ```
