@@ -16,7 +16,7 @@ spinnyfetch [flags]
   --speed <deg>       override spin speed in degrees/tick
 ```
 
-By default the logo spins continuously until interrupted (Ctrl-C).
+By default the logo spins continuously until interrupted.
 
 ## Config
 
